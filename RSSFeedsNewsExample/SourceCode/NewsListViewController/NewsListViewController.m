@@ -134,7 +134,6 @@
         [currentItemValue appendString:someString];
     }
 
-    NSLog(@"%@",someString);
 }
 
 - (void)parser:(NSXMLParser *)parser parseErrorOccurred:(NSError *)parseError{

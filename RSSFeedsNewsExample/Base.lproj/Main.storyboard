@@ -66,6 +66,7 @@
                                             </constraints>
                                             <variation key="default">
                                                 <mask key="constraints">
+                                                    <exclude reference="REu-fs-5py"/>
                                                     <exclude reference="DQY-cf-3iE"/>
                                                     <exclude reference="fDY-gl-w0R"/>
                                                 </mask>
