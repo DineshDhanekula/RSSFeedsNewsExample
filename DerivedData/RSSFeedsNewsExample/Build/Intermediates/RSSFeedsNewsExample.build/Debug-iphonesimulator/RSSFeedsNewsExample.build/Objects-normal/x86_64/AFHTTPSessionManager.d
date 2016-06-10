@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFHTTPSessionManager.m \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFHTTPSessionManager.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFURLSessionManager.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFURLResponseSerialization.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFURLRequestSerialization.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFSecurityPolicy.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFNetworkReachabilityManager.h

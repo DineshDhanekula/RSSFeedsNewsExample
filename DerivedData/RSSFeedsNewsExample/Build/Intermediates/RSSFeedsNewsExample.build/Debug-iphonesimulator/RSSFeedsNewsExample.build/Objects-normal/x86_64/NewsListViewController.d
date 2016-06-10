@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/NewsListViewController/NewsListViewController.m \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/NewsListViewController/NewsListViewController.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFNetworking.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFURLRequestSerialization.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFURLResponseSerialization.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFSecurityPolicy.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFNetworkReachabilityManager.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFURLConnectionOperation.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFHTTPRequestOperation.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFHTTPRequestOperationManager.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFURLSessionManager.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/AFNetworking/AFHTTPSessionManager.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/MBProgressHUD/MBProgressHUD.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/Reachability/Reachability.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ModelClass/NewsDetails.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/NewsListViewController/NewsListTableViewCell.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/EGOImageLoading/EGOImageView/EGOImageView.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/EGOImageLoading/EGOImageLoader/EGOImageLoader.h \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/NewsDetailViewController/NewsDetailsViewController.h

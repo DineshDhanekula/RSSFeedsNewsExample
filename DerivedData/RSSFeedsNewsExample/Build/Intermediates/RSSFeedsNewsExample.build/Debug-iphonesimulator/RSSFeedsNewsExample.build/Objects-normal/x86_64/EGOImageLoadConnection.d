@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/EGOImageLoading/EGOImageLoader/EGOImageLoadConnection.m \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/EGOImageLoading/EGOImageLoader/EGOImageLoadConnection.h

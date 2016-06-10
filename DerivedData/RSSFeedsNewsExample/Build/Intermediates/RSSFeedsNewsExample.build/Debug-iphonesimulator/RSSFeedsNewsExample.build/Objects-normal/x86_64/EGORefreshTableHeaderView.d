@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/EGOImageLoading/EGORefreshTableView/EGORefreshTableHeaderView.m \
+  /Users/dineshkumardhanekula/Downloads/RSSFeedsNewsExample/RSSFeedsNewsExample/SourceCode/ThirdPartyLibraries/EGOImageLoading/EGORefreshTableView/EGORefreshTableHeaderView.h
